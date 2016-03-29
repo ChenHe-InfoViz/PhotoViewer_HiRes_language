@@ -1,0 +1,2 @@
+C:\PhotoViewer\PhotoViewer_HiRes_database\trunk\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\PhotoViewer\PhotoViewer_HiRes_language\trunk\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
